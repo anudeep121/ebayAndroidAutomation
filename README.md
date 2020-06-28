@@ -9,8 +9,8 @@ To automate ebay application on android device.
 7. Loggin done only on console.
 8. Extent report and Default TestNg report will be used for reporting.
 9. Capture screen method and screen rotation methods are implemented.
-10.CommonAppiumTest.java will contain methods for utilisation.
-11.External source data reading added as excel reading.(Utilisation is pending)
+10. CommonAppiumTest.java will contain methods for utilisation.
+11. External source data reading added as excel reading.(Utilisation is pending)
 12. Src>Main>Java contains Pages and implementation methods
 13. Src>Test contains TestCases.
 14. For Test cases utilisation extend BaseClass in other Testcases.
